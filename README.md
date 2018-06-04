@@ -1,5 +1,5 @@
-#FreecodeCamp  Project
+# FreecodeCamp  Project
 
-Front-end: HTML,CSS
-Back-end: Express.js + MongoDB
-Public API: Google Books API
+Front-end: HTML,CSS<br>
+Back-end: Express.js + MongoDB<br>
+Public API: Google Books API<br>
