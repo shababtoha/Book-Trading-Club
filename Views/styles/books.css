@@ -1,0 +1,70 @@
+body{
+	background-color: #2A2A2A  ;
+}
+
+#mybookdiv{
+	margin-left: 5%;
+	color: white;
+}
+.addbook{
+	width: 30%;
+	border : 1px solid #94AEB4;
+	border-radius: 5px;
+	min-height: 30px;
+	color: black;
+	padding-left: 1%
+}
+
+.addbook:focus{
+	border : 1px solid blue;
+	outline: 0;
+}
+.cover{
+	height: 20em;
+	width: 14em;
+	display: inline-block;
+	position: relative;
+	margin-bottom: 1em;
+}
+.cover img{
+	display: inline-block;
+	height: 20em;
+	width: 13em;
+}
+.bookcontainer{
+	margin-left: 2%;
+	margin-top: 2%;
+}
+.cover button{
+	outline: 0;
+	border: 0;
+}
+
+i{
+	position: absolute;
+	color: red;
+	float: none;
+	vertical-align: top;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -1em;
+	margin-top: 2%;
+	opacity: .5;
+}
+i:hover{
+
+	opacity: 1;
+}
+.covers{
+	height: 23em;
+	width: 14em;
+	display: inline-block;
+	position: relative;
+	margin-bottom: 1em;
+}
+.covers img{
+	display: inline-block;
+	height: 20em;
+	width: 13em;
+}
+
